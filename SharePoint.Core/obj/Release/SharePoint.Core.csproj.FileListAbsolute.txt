@@ -1,0 +1,27 @@
+C:\Users\moshood.aminu\documents\visual studio 2013\Projects\SharePointWorkflow\SharePoint.Core\bin\Release\SharePoint.Core.dll.config
+C:\Users\moshood.aminu\documents\visual studio 2013\Projects\SharePointWorkflow\SharePoint.Core\bin\Release\SharePoint.Core.dll
+C:\Users\moshood.aminu\documents\visual studio 2013\Projects\SharePointWorkflow\SharePoint.Core\bin\Release\SharePoint.Core.pdb
+C:\Users\moshood.aminu\documents\visual studio 2013\Projects\SharePointWorkflow\SharePoint.Core\bin\Release\Sybase.AdoNet4.AseClient.dll
+C:\Users\moshood.aminu\documents\visual studio 2013\Projects\SharePointWorkflow\SharePoint.Core\obj\Release\SharePoint.Core.csprojResolveAssemblyReference.cache
+C:\Users\moshood.aminu\documents\visual studio 2013\Projects\SharePointWorkflow\SharePoint.Core\obj\Release\SharePoint.Core.dll
+C:\Users\moshood.aminu\documents\visual studio 2013\Projects\SharePointWorkflow\SharePoint.Core\obj\Release\SharePoint.Core.pdb
+P:\Cyprian Script\SharePointWorkflow\SharePoint.Core\bin\Release\SharePoint.Core.dll.config
+P:\Cyprian Script\SharePointWorkflow\SharePoint.Core\bin\Release\SharePoint.Core.dll
+P:\Cyprian Script\SharePointWorkflow\SharePoint.Core\bin\Release\SharePoint.Core.pdb
+P:\Cyprian Script\SharePointWorkflow\SharePoint.Core\obj\Release\SharePoint.Core.csprojResolveAssemblyReference.cache
+P:\Cyprian Script\SharePointWorkflow\SharePoint.Core\obj\Release\SharePoint.Core.dll
+P:\Cyprian Script\SharePointWorkflow\SharePoint.Core\obj\Release\SharePoint.Core.pdb
+C:\Users\okechukwu.agufuobi\Documents\SharePointWorkflow\SharePoint.Core\bin\Release\SharePoint.Core.dll.config
+C:\Users\okechukwu.agufuobi\Documents\SharePointWorkflow\SharePoint.Core\bin\Release\SharePoint.Core.dll
+C:\Users\okechukwu.agufuobi\Documents\SharePointWorkflow\SharePoint.Core\bin\Release\SharePoint.Core.pdb
+C:\Users\okechukwu.agufuobi\Documents\SharePointWorkflow\SharePoint.Core\bin\Release\Sybase.AdoNet4.AseClient.dll
+C:\Users\okechukwu.agufuobi\Documents\SharePointWorkflow\SharePoint.Core\obj\Release\SharePoint.Core.csprojResolveAssemblyReference.cache
+C:\Users\okechukwu.agufuobi\Documents\SharePointWorkflow\SharePoint.Core\obj\Release\SharePoint.Core.dll
+C:\Users\okechukwu.agufuobi\Documents\SharePointWorkflow\SharePoint.Core\obj\Release\SharePoint.Core.pdb
+C:\Users\okechukwu.agufuobi\Desktop\SharePointWorkflow\SharePoint.Core\bin\Release\SharePoint.Core.dll.config
+C:\Users\okechukwu.agufuobi\Desktop\SharePointWorkflow\SharePoint.Core\bin\Release\SharePoint.Core.dll
+C:\Users\okechukwu.agufuobi\Desktop\SharePointWorkflow\SharePoint.Core\bin\Release\SharePoint.Core.pdb
+C:\Users\okechukwu.agufuobi\Desktop\SharePointWorkflow\SharePoint.Core\bin\Release\Sybase.AdoNet4.AseClient.dll
+C:\Users\okechukwu.agufuobi\Desktop\SharePointWorkflow\SharePoint.Core\obj\Release\SharePoint.Core.csprojResolveAssemblyReference.cache
+C:\Users\okechukwu.agufuobi\Desktop\SharePointWorkflow\SharePoint.Core\obj\Release\SharePoint.Core.dll
+C:\Users\okechukwu.agufuobi\Desktop\SharePointWorkflow\SharePoint.Core\obj\Release\SharePoint.Core.pdb
